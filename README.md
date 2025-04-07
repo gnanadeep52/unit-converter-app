@@ -11,6 +11,11 @@ This is a simple Python CLI application that converts units of:
 ```bash
 python src/main.py
 ```
+## 🖥️ GUI Version
+
+Run the GUI app:
+python src/main_gui.py
+
 
 ## Requirements
 
